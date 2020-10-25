@@ -1,5 +1,10 @@
 # Joint.Exception
 
+| Branch  | Build status                                                                                                                     |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.Exception.svg?branch=master)](https://travis-ci.org/flapek/Joint.Exception)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.Exception.svg?branch=develop)](https://travis-ci.org/flapek/Joint.Exception) |
+
 ## Exception
 
 With the usage of Exception package, you can define Exception mapper and send it as a response.
